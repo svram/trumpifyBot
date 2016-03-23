@@ -15,7 +15,7 @@ Welcome bros. Here's how you run the bot:
 
 6. The project ID should appear as a row at the `Name` column.
 
-7. Click `Deploy`, enter your Google credentials, and your app should be installed to Google's servers.
+7. Click `Deploy`, enter your Google credentials, and your app should be installed to Google's servers.(the deployment may fail because you may not have permissions. Let me know error.)
 
 8. Test on Telegram
 
